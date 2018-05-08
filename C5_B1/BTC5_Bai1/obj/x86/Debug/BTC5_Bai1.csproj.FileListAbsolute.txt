@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2010\Projects\BTC5_Bai1\BTC5_Bai1\bin\Debug\BTC5_Bai1.exe
+c:\users\admin\documents\visual studio 2010\Projects\BTC5_Bai1\BTC5_Bai1\bin\Debug\BTC5_Bai1.pdb
+c:\users\admin\documents\visual studio 2010\Projects\BTC5_Bai1\BTC5_Bai1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\BTC5_Bai1\BTC5_Bai1\obj\x86\Debug\BTC5_Bai1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\BTC5_Bai1\BTC5_Bai1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\BTC5_Bai1\BTC5_Bai1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\BTC5_Bai1\BTC5_Bai1\obj\x86\Debug\BTC5_Bai1.exe
+c:\users\admin\documents\visual studio 2010\Projects\BTC5_Bai1\BTC5_Bai1\obj\x86\Debug\BTC5_Bai1.pdb
+C:\Users\Administrator\Desktop\New folder\C5_B1\BTC5_Bai1\obj\x86\Debug\BTC5_Bai1.exe
+C:\Users\Administrator\Desktop\New folder\C5_B1\BTC5_Bai1\obj\x86\Debug\BTC5_Bai1.pdb

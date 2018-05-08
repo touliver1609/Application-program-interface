@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\New folder\C4_B1_picBall\picBall\bin\Debug\picBall.exe
+C:\Users\Administrator\Desktop\New folder\C4_B1_picBall\picBall\bin\Debug\picBall.pdb
+C:\Users\Administrator\Desktop\New folder\C4_B1_picBall\picBall\obj\x86\Debug\C4_B1_picBall.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\C4_B1_picBall\picBall\obj\x86\Debug\picBall.Form1.resources
+C:\Users\Administrator\Desktop\New folder\C4_B1_picBall\picBall\obj\x86\Debug\picBall.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\C4_B1_picBall\picBall\obj\x86\Debug\C4_B1_picBall.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder\C4_B1_picBall\picBall\obj\x86\Debug\picBall.exe
+C:\Users\Administrator\Desktop\New folder\C4_B1_picBall\picBall\obj\x86\Debug\picBall.pdb

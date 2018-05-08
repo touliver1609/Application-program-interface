@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Chuong2_bt2\Chuong2_bt2\bin\Debug\Chuong2_bt2.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Chuong2_bt2\Chuong2_bt2\obj\Debug\Chuong2_bt2.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Chuong2_bt2\Chuong2_bt2\obj\Debug\Chuong2_bt2.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Chuong2_bt2\Chuong2_bt2\obj\Debug\Chuong2_bt2.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Chuong2_bt2\Chuong2_bt2\bin\Debug\Chuong2_bt2.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Chuong2_bt2\Chuong2_bt2\bin\Debug\Chuong2_bt2.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Chuong2_bt2\Chuong2_bt2\obj\Debug\Chuong2_bt2.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Chuong2_bt2\Chuong2_bt2\obj\Debug\Chuong2_bt2.pdb
+C:\Users\Administrator\Desktop\New folder\C2_B2_CacPhepTinhDonGian\Chuong2_bt2\bin\Debug\Chuong2_bt2.exe.config
+C:\Users\Administrator\Desktop\New folder\C2_B2_CacPhepTinhDonGian\Chuong2_bt2\obj\Debug\Chuong2_bt2.exe
+C:\Users\Administrator\Desktop\New folder\C2_B2_CacPhepTinhDonGian\Chuong2_bt2\obj\Debug\Chuong2_bt2.pdb

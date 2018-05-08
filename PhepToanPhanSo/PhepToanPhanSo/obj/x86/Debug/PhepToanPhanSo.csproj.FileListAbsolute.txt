@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2010\Projects\PhepToanPhanSo\PhepToanPhanSo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\PhepToanPhanSo\PhepToanPhanSo\obj\x86\Debug\PhepToanPhanSo.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\PhepToanPhanSo\PhepToanPhanSo\obj\x86\Debug\PhepToanPhanSo.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\PhepToanPhanSo\PhepToanPhanSo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\PhepToanPhanSo\PhepToanPhanSo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\documents\visual studio 2010\Projects\PhepToanPhanSo\PhepToanPhanSo\bin\Debug\PhepToanPhanSo.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\PhepToanPhanSo\PhepToanPhanSo\bin\Debug\PhepToanPhanSo.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\PhepToanPhanSo\PhepToanPhanSo\obj\x86\Debug\PhepToanPhanSo.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\PhepToanPhanSo\PhepToanPhanSo\obj\x86\Debug\PhepToanPhanSo.pdb
+C:\Users\Administrator\Desktop\New folder\C3_B1_PhepToanPhanSo\PhepToanPhanSo\obj\x86\Debug\PhepToanPhanSo.exe
+C:\Users\Administrator\Desktop\New folder\C3_B1_PhepToanPhanSo\PhepToanPhanSo\obj\x86\Debug\PhepToanPhanSo.pdb

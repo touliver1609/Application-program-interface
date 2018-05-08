@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\New folder\C2_B1_CacPhepTinhDonGian\chuong2_bt1\bin\Debug\chuong2_bt1.exe.config
+C:\Users\Administrator\Desktop\New folder\C2_B1_CacPhepTinhDonGian\chuong2_bt1\obj\Debug\chuong2_bt1.exe
+C:\Users\Administrator\Desktop\New folder\C2_B1_CacPhepTinhDonGian\chuong2_bt1\obj\Debug\chuong2_bt1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\New folder\C4_TLB3_CommonDialog\BTTuLam_2\bin\Debug\BTTuLam_2.exe
+C:\Users\Administrator\Desktop\New folder\C4_TLB3_CommonDialog\BTTuLam_2\bin\Debug\BTTuLam_2.pdb
+C:\Users\Administrator\Desktop\New folder\C4_TLB3_CommonDialog\BTTuLam_2\obj\x86\Debug\C4_TLB3_CommonDialog.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\C4_TLB3_CommonDialog\BTTuLam_2\obj\x86\Debug\BTTuLam_2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\C4_TLB3_CommonDialog\BTTuLam_2\obj\x86\Debug\C4_TLB3_CommonDialog.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder\C4_TLB3_CommonDialog\BTTuLam_2\obj\x86\Debug\BTTuLam_2.exe
+C:\Users\Administrator\Desktop\New folder\C4_TLB3_CommonDialog\BTTuLam_2\obj\x86\Debug\BTTuLam_2.pdb

@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\obj\x86\Debug\tungbanh.exe
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\obj\x86\Debug\tungbanh.pdb

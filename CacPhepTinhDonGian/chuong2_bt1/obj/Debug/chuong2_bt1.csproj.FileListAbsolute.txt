@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\chuong2_bt1\chuong2_bt1\bin\Debug\chuong2_bt1.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\chuong2_bt1\chuong2_bt1\bin\Debug\chuong2_bt1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\chuong2_bt1\chuong2_bt1\bin\Debug\chuong2_bt1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\chuong2_bt1\chuong2_bt1\obj\Debug\chuong2_bt1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\chuong2_bt1\chuong2_bt1\obj\Debug\chuong2_bt1.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\chuong2_bt1\chuong2_bt1\obj\Debug\chuong2_bt1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\chuong2_bt1\chuong2_bt1\obj\Debug\chuong2_bt1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\chuong2_bt1\chuong2_bt1\obj\Debug\chuong2_bt1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\chuong2_bt1\chuong2_bt1\obj\Debug\chuong2_bt1.pdb
+C:\Users\Administrator\Desktop\New folder\C2_B1_CacPhepTinhDonGian\chuong2_bt1\bin\Debug\chuong2_bt1.exe.config
+C:\Users\Administrator\Desktop\New folder\C2_B1_CacPhepTinhDonGian\chuong2_bt1\obj\Debug\chuong2_bt1.exe
+C:\Users\Administrator\Desktop\New folder\C2_B1_CacPhepTinhDonGian\chuong2_bt1\obj\Debug\chuong2_bt1.pdb

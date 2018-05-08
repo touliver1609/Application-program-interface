@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2010\Projects\MayTinhBoTui\MayTinhBoTui\bin\Debug\MayTinhBoTui.exe
+c:\users\admin\documents\visual studio 2010\Projects\MayTinhBoTui\MayTinhBoTui\bin\Debug\MayTinhBoTui.pdb
+c:\users\admin\documents\visual studio 2010\Projects\MayTinhBoTui\MayTinhBoTui\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\MayTinhBoTui\MayTinhBoTui\obj\x86\Debug\MayTinhBoTui.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\MayTinhBoTui\MayTinhBoTui\obj\x86\Debug\MayTinhBoTui.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\MayTinhBoTui\MayTinhBoTui\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\MayTinhBoTui\MayTinhBoTui\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\MayTinhBoTui\MayTinhBoTui\obj\x86\Debug\MayTinhBoTui.exe
+c:\users\admin\documents\visual studio 2010\Projects\MayTinhBoTui\MayTinhBoTui\obj\x86\Debug\MayTinhBoTui.pdb
+C:\Users\Administrator\Desktop\New folder\C2_LTB4_MayTinhBoTui\MayTinhBoTui\obj\x86\Debug\MayTinhBoTui.exe
+C:\Users\Administrator\Desktop\New folder\C2_LTB4_MayTinhBoTui\MayTinhBoTui\obj\x86\Debug\MayTinhBoTui.pdb

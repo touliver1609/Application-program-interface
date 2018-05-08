@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2010\Projects\BTC4_Bai3\BTC4_Bai3\bin\Debug\BTC4_Bai3.exe
+c:\users\admin\documents\visual studio 2010\Projects\BTC4_Bai3\BTC4_Bai3\bin\Debug\BTC4_Bai3.pdb
+c:\users\admin\documents\visual studio 2010\Projects\BTC4_Bai3\BTC4_Bai3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\BTC4_Bai3\BTC4_Bai3\obj\x86\Debug\BTC4_Bai3.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\BTC4_Bai3\BTC4_Bai3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\BTC4_Bai3\BTC4_Bai3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\BTC4_Bai3\BTC4_Bai3\obj\x86\Debug\BTC4_Bai3.exe
+c:\users\admin\documents\visual studio 2010\Projects\BTC4_Bai3\BTC4_Bai3\obj\x86\Debug\BTC4_Bai3.pdb
+C:\Users\Administrator\Desktop\New folder\C4_B3_quayxucxac\BTC4_Bai3\obj\x86\Debug\BTC4_Bai3.exe
+C:\Users\Administrator\Desktop\New folder\C4_B3_quayxucxac\BTC4_Bai3\obj\x86\Debug\BTC4_Bai3.pdb

@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2010\Projects\PTB2\PTB2\bin\Debug\PTB2.exe
+c:\users\admin\documents\visual studio 2010\Projects\PTB2\PTB2\bin\Debug\PTB2.pdb
+c:\users\admin\documents\visual studio 2010\Projects\PTB2\PTB2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\PTB2\PTB2\obj\x86\Debug\PTB2.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\PTB2\PTB2\obj\x86\Debug\PTB2.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\PTB2\PTB2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\PTB2\PTB2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\PTB2\PTB2\obj\x86\Debug\PTB2.exe
+c:\users\admin\documents\visual studio 2010\Projects\PTB2\PTB2\obj\x86\Debug\PTB2.pdb
+C:\Users\Administrator\Desktop\New folder\C2_LTB2_PTB2\PTB2\obj\x86\Debug\PTB2.exe
+C:\Users\Administrator\Desktop\New folder\C2_LTB2_PTB2\PTB2\obj\x86\Debug\PTB2.pdb

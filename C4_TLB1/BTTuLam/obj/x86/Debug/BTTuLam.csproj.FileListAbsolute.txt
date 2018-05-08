@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2010\Projects\BTTuLam\BTTuLam\bin\Debug\BTTuLam.exe
+c:\users\admin\documents\visual studio 2010\Projects\BTTuLam\BTTuLam\bin\Debug\BTTuLam.pdb
+c:\users\admin\documents\visual studio 2010\Projects\BTTuLam\BTTuLam\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\BTTuLam\BTTuLam\obj\x86\Debug\BTTuLam.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\BTTuLam\BTTuLam\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\BTTuLam\BTTuLam\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\BTTuLam\BTTuLam\obj\x86\Debug\BTTuLam.exe
+c:\users\admin\documents\visual studio 2010\Projects\BTTuLam\BTTuLam\obj\x86\Debug\BTTuLam.pdb
+C:\Users\Administrator\Desktop\New folder\C4_TLB1\BTTuLam\obj\x86\Debug\BTTuLam.exe
+C:\Users\Administrator\Desktop\New folder\C4_TLB1\BTTuLam\obj\x86\Debug\BTTuLam.pdb

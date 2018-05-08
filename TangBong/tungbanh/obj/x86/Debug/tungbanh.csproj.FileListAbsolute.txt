@@ -1,0 +1,23 @@
+c:\users\admin\documents\visual studio 2010\Projects\tungbanh\tungbanh\bin\Debug\tungbanh.exe
+c:\users\admin\documents\visual studio 2010\Projects\tungbanh\tungbanh\bin\Debug\tungbanh.pdb
+c:\users\admin\documents\visual studio 2010\Projects\tungbanh\tungbanh\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\tungbanh\tungbanh\obj\x86\Debug\tungbanh.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\tungbanh\tungbanh\obj\x86\Debug\tungbanh.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\tungbanh\tungbanh\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\tungbanh\tungbanh\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\tungbanh\tungbanh\obj\x86\Debug\tungbanh.exe
+c:\users\admin\documents\visual studio 2010\Projects\tungbanh\tungbanh\obj\x86\Debug\tungbanh.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\tungbanh\tungbanh\bin\Debug\vi-VN\tungbanh.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\tungbanh\tungbanh\obj\x86\Debug\tungbanh.Form1.vi-VN.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\tungbanh\tungbanh\obj\x86\Debug\vi-VN\tungbanh.resources.dll
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\obj\x86\Debug\tungbanh.exe
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\obj\x86\Debug\tungbanh.pdb
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\bin\Debug\tungbanh.exe
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\bin\Debug\tungbanh.pdb
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\bin\Debug\vi-VN\tungbanh.resources.dll
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\obj\x86\Debug\tungbanh.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\obj\x86\Debug\tungbanh.Form1.resources
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\obj\x86\Debug\tungbanh.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\obj\x86\Debug\tungbanh.Form1.vi-VN.resources
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\obj\x86\Debug\tungbanh.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder\C5_LTB1_TangBong\tungbanh\obj\x86\Debug\vi-VN\tungbanh.resources.dll

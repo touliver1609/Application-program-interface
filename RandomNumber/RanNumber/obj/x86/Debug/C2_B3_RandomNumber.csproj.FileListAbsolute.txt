@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\New folder\C2_B3_RandomNumber\RanNumber\obj\x86\Debug\RanNumber.exe
+C:\Users\Administrator\Desktop\New folder\C2_B3_RandomNumber\RanNumber\obj\x86\Debug\RanNumber.pdb
+C:\Users\Administrator\Desktop\New folder\C2_B3_RandomNumber\RanNumber\bin\Debug\RanNumber.exe
+C:\Users\Administrator\Desktop\New folder\C2_B3_RandomNumber\RanNumber\bin\Debug\RanNumber.pdb
+C:\Users\Administrator\Desktop\New folder\C2_B3_RandomNumber\RanNumber\obj\x86\Debug\C2_B3_RandomNumber.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\C2_B3_RandomNumber\RanNumber\obj\x86\Debug\RanNumber.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\C2_B3_RandomNumber\RanNumber\obj\x86\Debug\C2_B3_RandomNumber.csproj.GenerateResource.Cache
